@@ -6,8 +6,8 @@
   "platforms": {
 
     "windows-x86_64": {
-      "signature": "SIGNATURE_HERE",
-      "url": "https://stigify.uz/windows/x64/1.0.1/stigify-app.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZThlWm1rMWZUaW56eFNUOStsVWIxbUtnOWxRTTNDWDBrU3FVWm9IeVQzT20rcFIyby9CYjJUSUNtWnVZK2k5TnBrbkZsdVFFNWdVaGdFYithWFpJdzZPNjFrYTVhVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5NzE0NjEyCWZpbGU6c3RpZ2lmeS1hcHBfMC4xLjBfeDY0X2VuLVVTLm1zaQpBWVdJTVpFVDFPaGZrd0VSaDA5cXphdlRDa3RhbTBxU2tRUVArRmoydk5lbmJoWjNuSGpyWmRrTXRFejh2YnhlYm1rek9CcXNJZUpzZmN0ckFUNFpBdz09Cg==",
+      "url": "https://stigify.uz/stigify-app_1.0.1_x64_en-US.msi"
     }
 
   }
